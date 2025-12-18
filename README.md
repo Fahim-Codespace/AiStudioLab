@@ -1,5 +1,6 @@
 # AiStudioLab
 https://aistudiolab.vercel.app/
+Chat and generate images....
 
 <br>
 <img width="1887" height="820" alt="Screenshot 2025-12-15 231554" src="https://github.com/user-attachments/assets/4ba12345-2477-4044-ac2a-6b059cb6f22f" />
